@@ -4,11 +4,6 @@ init, add, commit, log, status,checkout
 hash code
 
 lesson02(remote repository)
-
-
-
-
-
-
-
-asdasd
+github
+echo, cat
+remote (add origin), push,  
