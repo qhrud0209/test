@@ -6,4 +6,4 @@ hash code
 lesson02(remote repository)
 github
 echo, cat
-remote (add origin), push,  
+remote (add origin), remote -v, remote add origin, push 
