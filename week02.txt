@@ -1,3 +1,5 @@
 lesson01
 pwd, ls, cd
-git init
+init, add, commit, log, status
+
+
